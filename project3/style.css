@@ -1,0 +1,110 @@
+          body{
+
+                margin: 0;
+              
+              
+                    }
+          header{
+	              height: 50px;
+	              background-color: white;
+
+                 }
+          #logo{
+          	float: left;
+          	margin:10px;
+          
+              }
+		 
+		  #div1{
+		  	 background-image: url("lady.jpg");
+		  	 width: 100%;
+		  	  height: 600px;
+           background-repeat: no-repeat;
+            	 background-position: center;
+		     	float: left;
+		       margin-left: 1px;
+		      display: inline-block;
+		  }
+		   #nav1{		    
+		          float: right;
+                  display: inline-block;
+                  margin-top: 0;
+                  margin-right: 70px;
+                  background-color: white;
+                  height: 50px;
+                  line-height: 50px;
+             }
+             #nav1 a{
+             	text-decoration: none;
+             	color: #000;
+             }
+ 
+
+		
+
+		  #nav1{
+		  	word-spacing: 30px;
+		  }
+           label{
+			line-height: 0;
+			margin-left: 100px;
+	        	}
+
+		#img3{
+			margin-left: 50px;
+			margin-top: 80px;
+
+		     }
+		 #div2{
+          	margin-top: 200px;
+          	margin-left: 200px;
+          }
+		#div3{         
+			background-color: white;		
+			width: 50px;
+			height: 300px;
+			position: fixed;
+			right: 20px;
+			top: 200px;
+		}
+		#d{
+			display: inline-block;
+			margin-left: 50px;
+			padding-top: 1px;
+		}
+		
+		.col
+           { background-color:#0DF1F1;
+     	     float: left;
+     	     width: 300px;
+     	     height: 200px;
+             margin-right: 10px;
+          	padding: 100px;
+             margin-left: 30px;
+          }
+          #manc{
+          	
+
+          	display: inline-block;
+          	margin-left: 20px;
+          }
+          #c{
+
+          	display: inline-block;
+          	float: left;
+          	margin-left: 60px;
+          	padding: 60px;
+          }
+          #c1{
+          	display: inline-block;
+               float: right;
+               clear: both;
+          }
+          .b{
+          	font-size: 40px;
+          }
+          
+
+
+
+				

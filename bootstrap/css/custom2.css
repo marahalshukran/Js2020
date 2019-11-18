@@ -1,0 +1,43 @@
+body{
+	background-color: grey;
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+
+
+
+}
+.fas{
+	background-color: black;
+	color: white;
+	font-size: 60px;
+	padding: 20px;
+	margin: 20px;
+}
+.fab{
+	background-color: black;
+	color: white;
+	font-size: 60px;
+	padding: 20px;
+	margin: 20px;
+}
+.fas:hover{
+	background-color: white;
+	color: red;
+	border-top: 2px solid blue;
+	border-bottom: 2px solid blue;
+}
+.fab:hover{
+	background-color: white;
+	color: red;
+	border-top: 5px solid blue;
+	border-bottom: 5px solid blue;
+}
+h1:hover{
+	background-color: white;
+	color: red;
+	border-top: 5px solid blue;
+	border-bottom: 5px solid blue;
+	width: 150px;
+
+}

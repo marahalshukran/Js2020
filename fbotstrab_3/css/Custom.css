@@ -1,0 +1,25 @@
+
+/*.navbar .nav{
+	float: right;
+}*/
+
+body{
+	background-color: black;
+	color: white;
+
+}
+h4{
+	background-color: grey;
+}
+.footer{
+	text-align: center;
+	margin-top: 70px;
+}
+.container img{
+	width: 1000%;
+}
+.span4 .muted-text-center{
+	text-align:center;
+	margin-top: 50px;
+	background-color: #303030;
+}

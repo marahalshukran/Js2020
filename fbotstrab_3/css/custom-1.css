@@ -1,0 +1,183 @@
+.navbar{
+	background: white;
+      text-align:center;}
+
+
+.hero-unit{
+	background-image: url("../img/img_3.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+	text-align:center;
+
+}
+.hero-unit h2 {
+	color: white;
+	padding-top: 110px;
+}
+.hero-unit h5 {
+	color: white;
+}
+
+
+#div1 {
+
+	background-color: white;
+	width: 800px;
+	
+	text-align:center;
+	
+	padding:20px;
+	margin-left: 500px;
+}
+.div2{
+	padding-top: 10px;
+	padding-right: 300px;
+}
+.nav{
+	padding-left: 300px;
+}
+.navbar .brand{
+	margin-left: 240px;
+}
+#btn{
+	padding: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	color: black;
+	background-color: #11cbd7;
+	border-radius: 10px;
+
+}
+#btn1{padding: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+	color: black;
+	background-color: #11cbd7;
+	border-radius: 10px;
+}
+#btn:hover{
+	background-color: #fff;
+	color: black;
+	border:1px solid #11cbd7;
+}
+
+ .span6 h2{
+ 	color: #11cbd7;
+ 	font-size: 45px;
+
+ }
+ .span6 p{
+ 	color: grey;
+ }
+ .fas1{
+ 	font-size: 60px;
+	padding: 20px;
+	margin: 20px;
+ }
+ 
+ 	
+ }
+.sel1{
+	height: 50px;
+	border:0;
+	border-left: 1px solid gray;
+	border-radius: 0px;
+}
+#inp1{
+	height: 50px;
+	border:0;
+}
+.span2 a{
+	color: #11cbd7;
+}
+.span2 p{color: grey;}
+
+#con{
+	background-color: #808080;
+	height: 1500px;
+
+}
+
+.span6  h1{
+color: #11cbd7;
+}
+.span6 p{
+
+}
+#cours{
+	text-align: center;
+}
+#btn2{padding: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: black;
+	background-color: #11cbd7;
+	border-radius: 10px;
+}
+.Teachers{
+	text-align: center;
+}
+.con2{
+	padding-top: 60px;
+	
+	
+}
+#cours h1{
+	color: #11cbd7;
+}
+
+.Teachers h1{
+	color: #11cbd7;
+
+}
+.Teachers p{color: #cccccc;}
+
+#Blog1 h1{
+	color: #11cbd7;
+
+}
+#Blog1 p{
+	color: #cccccc;
+
+}
+.Create{
+	background-color:  #11cbd7;
+	width: 100%;
+	text-align:center;
+	height: 200px;
+
+
+}
+#span6h1{margin-top: 50px;}
+
+#span6h1  h2 {
+	color: white;
+
+}
+#span6h1  p {
+	color: white;
+}
+#form{
+	background-color: white;
+	margin-top: 70px;
+	margin-right: 10px;
+}
+
+	
+
+
+
+.fas{
+	
+	padding: 0;
+}
+input{
+	border: none;
+
+}
+
+button{
+	background-color: #11cbd7;
+	padding:10px;
+}

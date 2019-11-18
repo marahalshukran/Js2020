@@ -1,0 +1,154 @@
+body{
+
+margin: 0;
+background-color:white;
+color: black;
+}
+
+    header{
+	background-color: #ccc;
+	height: 50px;
+
+
+      }
+     #login{
+     	float: right;
+	   margin-right: 20px;
+         color: white;
+      }
+
+	#logo{
+		float: left;
+		margin-left: 20px;
+		margin-top: 50px;
+		line-height: 5px;
+		}
+
+
+	
+    #icontext{
+	float: right;
+	margin-top: 60px;
+	word-spacing: 20px;
+
+      }
+
+    #icontext div{
+ 	display: inline-block;
+ 	line-height: 0;
+
+      }
+      section
+      { text-align: center;
+	
+       }
+       #lable1{
+       	font-family: bold;
+       	text-transform: uppercase;
+       }
+        #lable2{
+       	font-family:itlaic;
+       	color: grey;
+       	text-transform: uppercase;
+       }
+        #lable4{
+       color: grey;
+       }
+        
+     #nav2 
+     {
+ 	display: inline-block;
+ 	text-align: justify;
+ 	width: 200px;
+ 	margin-left: 100px;
+ 	margin-top: 30px;
+
+     }
+     .col
+     {
+     	 float: left;
+     	width: 450px;
+     	margin-left: 20px;
+     }
+
+    
+     
+     #link{
+     	clear: both;
+     	background-color:#ccc; 
+     	height: 50px;
+        line-height: 50px;
+        width: 100%;
+          }
+
+     #imglink
+     {
+     	float: left;
+     
+     	margin-left: 50px;
+     	line-height: 30px;
+     	margin-right: 20px;
+   
+     	
+     }
+     #p
+     {clear: both;
+     	margin-bottom: 70px;
+     }
+
+     #nav3{
+     	margin: 0;
+     	width: 100%;
+     	height: 400px;
+
+     	background-color: grey;
+
+           }
+     .col2
+         {
+     	margin-right: 30px;
+        float: left;
+     	width: 350px;
+     	margin-left: 30px;
+           }
+          .col2 ul{
+     		list-style: none;
+     	}
+     .footer1
+          {
+     	
+     	margin-left: 10px
+          }
+    
+   footer
+         {
+         	clear: both;
+     	background-color: lightgrey;
+     	width: 100%;
+     	height: 70px;
+         }
+         #footdiv{
+       
+     	float: left;
+     	line-height: 70px;
+     	margin-left: 20px;
+            
+           }
+     	#fimg
+     	
+     	{
+     		margin-top: 10px;
+     		margin-right:20px; 
+    
+     		float: right;
+     		
+
+     	}
+
+     
+ 
+
+
+
+
+ 
